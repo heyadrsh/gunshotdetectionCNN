@@ -37,8 +37,5 @@ training_history.png
 confusion_matrix.png
 training_log.csv
 
-# Dataset
-dataset/
-
 # Logs
 *.log 
